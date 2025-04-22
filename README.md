@@ -58,8 +58,8 @@
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href="hardware.html">Hardware</a></li>
-            <li><a href="software.html">Software</a></li>
+            <li><a href="hardware.html">Mouse, Keyboard, cpu, ram, cooling fan, etc..</a></li>
+            <li><a href="software.html">Microsoft Office, Adobe etc...</a></li>
             <li><a href="troubleshooting.html">Troubleshooting</a></li>
             <li><a href="resources.html">Resources</a></li>
         </ul>
