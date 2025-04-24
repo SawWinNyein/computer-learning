@@ -65,7 +65,7 @@
         </ul>
     </nav>
     <main>
-        <h2>Welcome to Basic Computer Guide!</h2>
+        <h2>အခြေခံကွန်ပျူတာသင်တန်းကနေ ကြိုဆိုပါ၏!</h2>
         <p>This website helps beginners understand computers, from hardware to software.</p>
         <h3>What You'll Learn:</h3>
         <ul>
