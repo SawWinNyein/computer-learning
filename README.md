@@ -67,7 +67,7 @@
     <main>
         <h2>အခြေခံကွန်ပျူတာသင်တန်းကနေ ကြိုဆိုပါ၏!</h2>
         <p>This website helps beginners understand computers, from hardware to software.</p>
-        <h3>What You'll Learn:</h3>
+        <h3>ဘာတွေသင်ယူရမှာလဲ?:</h3>
         <ul>
             <li>Parts of a computer(ကွန်ပျူတာမှာပါဝင်တဲ့ အစိတ်အပိုင်းများ) (CPU, RAM, etc.)</li>
             <li>How software works (ဆော့ဝဲလ်ဘယ်လိုအလုပ်လုပ်သလဲ) Windows, macOS, apps)</li>
