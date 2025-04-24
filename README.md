@@ -52,7 +52,7 @@
 </head>
 <body>
     <header>
-        <h1>Basic Computer Guide</h1>
+        <h1>အခြေခံကွန်ပျူတာ</h1>
         <p>Learn computer fundamentals easily!</p>
     </header>
     <nav>
